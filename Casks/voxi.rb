@@ -1,6 +1,6 @@
 cask "voxi" do
-  version "0.1.14"
-  sha256 "4a59ae616f495384059213e1761759ec12ce8afe334e5a23fb37f6259c89c5b2"
+  version "0.2.1"
+  sha256 "88cc9aaf0bac5a8e62e90624cb30937d4887c1c41e9410ee6289fae084f9b512"
 
   url "https://github.com/ruck-syu/Voxi/releases/download/v#{version}/Voxi_#{version}_universal.dmg"
   name "Voxi"
